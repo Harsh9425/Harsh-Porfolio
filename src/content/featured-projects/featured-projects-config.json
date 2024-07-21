@@ -1,0 +1,38 @@
+[
+    {
+        "id": "featured-project-filebud",
+        "title": "FileBud",
+        "year": "May 2024 - July 2024",
+        "location": "Gwalior",
+        "demo": "https://file-bud-frontend.vercel.app/",
+        "github": "https://github.com/RealThomasCat/file-bud",
+        "tags": ["React", "NodeJS", "ExpressJS", "MongoDB", "Cloudinary", "VidStack", "HLS", "Redux", "Tailwind"],
+        "description": "A cloud storage application featuring a robust file system, adaptive video streaming, and atomicity for seamless performance.",
+        "image": "/assets/featured-projects/filebud.png",
+        "jpg": "/assets/featured-projects/filebud.png"
+    },
+    {
+        "id": "featured-project-shopvivo",
+        "title": "Shopvivo",
+        "year": "Nov 2022",
+        "location": "IIIT Gwalior",
+        "demo": "https://shopvivo.onrender.com/",
+        "github": "https://github.com/Smr0303/Shopvivo",
+        "tags": ["ReactJS", "NodeJS", "MongoDB", "Cloudinary"],
+        "description": "Conceptualized, programmed, and tested a responsive E-Commerce platform with intricate multi-tiered authorization.",
+        "image": "/assets/featured-projects/shopvivo.png",
+        "jpg": "/assets/featured-projects/shopvivo.png"
+    },
+    {
+        "id": "featured-project-kinoticket",
+        "title": "KinoTicket",
+        "year": "July 2021",
+        "location": "Webkriti AASF (Third Position)",
+        "demo": "https://kinoticket.netlify.app/",
+        "github": "https://github.com/Smr0303/Movie-Frontend",
+        "tags": ["HTML", "CSS", "NodeJS", "PostgreSQL", "RazorPay"],
+        "description": "A Movie ticket booking web application where users can book their slots for movie and pay online",
+        "image": "/assets/featured-projects/kinoticket.png",
+        "jpg": "/assets/featured-projects/kinoticket.png"
+    }
+]

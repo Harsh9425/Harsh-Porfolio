@@ -1,0 +1,70 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Indian Institue of Information Technology, Gwalior",
+            "degree": "Integrated B.Tech + M.Tech in IT",
+            "duration": "July 2020 - Expected May 2025",
+            "content": [
+                "CGPA: 8.0/10",
+                "Courses: Operating Systems, Computer Networks, Database Management Systems, Object Oriented Programming, Data Structures and Algorithms"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Nashik Cambridge School",
+            "degree": "CBSE (Class XII)",
+            "duration": "July 2017 - May 2019",
+            "content": ["PR: 93.5", "Courses: Physics, Chemistry, Mathematics"]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Jethi Tech Solutions",
+            "position": "Full Stack Developer",
+            "duration": "Sept 2023 - Nov 2023",
+            "description": [
+                "Engaged in full stack development, integrating React-based frontends with efficient backend systems.​",
+                "Architected and debugged backend logic, enhancing server-side functionality and API performance.",
+                "Focused on server-side optimization, utilizing advanced debugging techniques for improved performance.",
+                "Collaborated on 3 diverse projects, ensuring robust, scalable code and optimizing application performance."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": ["C/C++", "JavaScript", "Python"]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "NodeJS", "ExpressJS", "Redux"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "PostgreSQL", "MySQL"]
+        },
+
+        {
+            "title": "OS & Tools",
+            "tools": ["Linux", "Git", "Heroku", "GitHub"]
+        },
+        {
+            "title": "CourseWork",
+            "tools": ["OS", "CN", "DSA", "DBMS", "OOPS"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}

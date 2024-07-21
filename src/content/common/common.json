@@ -1,0 +1,30 @@
+{
+    "name": "Harsh Mishra",
+    "logoType": {
+        "mobile": "HM",
+        "desktop": "Harsh Mishra"
+    },
+    "mainPicture": "/assets/face2.jpg",
+    "mainPictureJPG": "/assets/face2.jpg",
+    "pronunciation": "/her-sh-mish-ra/",
+    "audioFile": "/assets/pronunciation.mp3",
+    "cssVarPrefix": "hp",
+    "email": "harsh.web19@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/harsh-mishra9425/",
+    "github": "https://github.com/Harsh9425",
+    "resume": "https://drive.google.com/file/d/1ing4l-GsB_Bb8aNuhp8J208zQbS8UiI6/view",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/harsh-mishra9425/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/Harsh9425"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:harsh.web19@gmail.com"
+        }
+    ]
+}
