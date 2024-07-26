@@ -4,8 +4,8 @@
         "mobile": "HM",
         "desktop": "Harsh Mishra"
     },
-    "mainPicture": "/assets/face2.jpg",
-    "mainPictureJPG": "/assets/face2.jpg",
+    "mainPicture": "/assets/compressed.jpg",
+    "mainPictureJPG": "/assets/compressed.jpg",
     "pronunciation": "/her-sh-mish-ra/",
     "audioFile": "/assets/pronunciation.mp3",
     "cssVarPrefix": "hp",
