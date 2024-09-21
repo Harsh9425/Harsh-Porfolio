@@ -21,14 +21,13 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Jethi Tech Solutions",
-            "position": "Full Stack Developer",
+            "company": "Fleeguide",
+            "position": "Software Developer Intern",
             "duration": "Sept 2023 - Nov 2023",
             "description": [
-                "Engaged in full stack development, integrating React-based frontends with efficient backend systems.​",
-                "Architected and debugged backend logic, enhancing server-side functionality and API performance.",
-                "Focused on server-side optimization, utilizing advanced debugging techniques for improved performance.",
-                "Collaborated on 3 diverse projects, ensuring robust, scalable code and optimizing application performance."
+                " Optimized UI efficiency using React.js and Redux for seamless state management and user experience​",
+                " Integrated Razorpay gateway for precise, secure, and efficient payment processing and transaction tracking.",
+                " Developed a comprehensive Admin dashboard and authored 20+ APIs using Node.js."
             ]
         }
     ],
